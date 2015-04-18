@@ -19,6 +19,7 @@
 #   service: name=mysql state=started enabled=yes
 
 - include: configure.yml
-- include: secure-installation.yml
+- include: mysql_secure_installation.yml
 - include: databases.yml
 - include: users.yml
+- include: replication.yml

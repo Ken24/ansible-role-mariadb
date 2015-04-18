@@ -55,5 +55,6 @@ MIT / BSD
 
 ## Author Information
 
-Created by [Attila van der Velde](https://github.com/vdvm)
-Modified script is geerlingguy (https://github.com/geerlingguy/ansible-role-mysql)
+Created by [Attila van der Velde](https://github.com/vdvm).
+
+Modified script is created by geerlingguy (https://github.com/geerlingguy/ansible-role-mysql)
